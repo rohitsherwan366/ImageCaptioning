@@ -1,6 +1,7 @@
 # ImageCaptioning_Hindi
 
  For our B.tech major project, we are creating a image captioning model that will be able to generate image captions in hindi language. 
+ Here is Google drive link for more information : https://drive.google.com/drive/u/0/folders/1auVu2to_xCe2QAYo3UPeIRlk_PsaqmSz
 
 ** -> steps to follow
 
